@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ConvenientKit_Example' do
+  pod 'ConvenientKit', :path => '../'
+
+  target 'ConvenientKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
