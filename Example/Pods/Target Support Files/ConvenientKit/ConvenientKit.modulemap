@@ -1,0 +1,6 @@
+framework module ConvenientKit {
+  umbrella header "ConvenientKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

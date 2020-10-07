@@ -1,0 +1,16 @@
+PODS:
+  - ConvenientKit (0.1.0)
+
+DEPENDENCIES:
+  - ConvenientKit (from `../`)
+
+EXTERNAL SOURCES:
+  ConvenientKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConvenientKit: 3319497c8fb07b83e51cc8acb44c9d3da4503419
+
+PODFILE CHECKSUM: e5f08e0e3283b833880134ab35cfde1fd20106b3
+
+COCOAPODS: 1.9.3
